@@ -1,0 +1,8 @@
+{
+    "keyboard_name": "GMBK 75% ISO",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0xB001",
+        "vid": "0x3794"
+    }
+}
